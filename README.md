@@ -1,4 +1,4 @@
-# Roxo-Gaming-Test
+# Roxor-Gaming-Test
 
 Hi ! This is my attempt at completing the RoxorGaming test. 
 This is meant to be a simple REST API returning the string "pong" on http://localhost:8080/ping.
